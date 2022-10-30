@@ -1,0 +1,8 @@
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\MadsAssortedAdjustments\obj\Debug\MadsAssortedAdjustments.csproj.AssemblyReference.cache
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\MadsAssortedAdjustments\obj\Debug\MadsAssortedAdjustments.csproj.CoreCompileInputs.cache
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\Dist\meta.json
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\Dist\MadsAssortedAdjustments.dll
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\Dist\MadsAssortedAdjustments.pdb
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\MadsAssortedAdjustments\obj\Debug\MadsAssortedAdjustments.csproj.CopyComplete
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\MadsAssortedAdjustments\obj\Debug\MadsAssortedAdjustments.dll
+C:\Users\Lewie\Documents\MadsAssortedAdjustments\MadsAssortedAdjustments\obj\Debug\MadsAssortedAdjustments.pdb

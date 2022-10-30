@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.MadsAssortedAdjustments",
+  "AssemblyName": "MadsAssortedAdjustments.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "DragonKingAbashi"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Mads Assorted Adjustments"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "New Mod description"
+    }
+  ],
+  "Dependencies": []
+}
